@@ -187,8 +187,8 @@
     buffer-layout "^1.2.0"
 
 "@rushstack/eslint-patch@^1.1.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz#8be36a1f66f3265389e90b5f9c9962146758f728"
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.10.2.tgz#053f1540703faa81dea2966b768ee5581c66aeda"
 
 "@saberhq/anchor-contrib@^1.10.3", "@saberhq/anchor-contrib@^1.14.9":
   version "1.14.9"
